@@ -53,9 +53,9 @@ This repo powers the website you are currently viewing.
 ## 📬 Contact / Connect
 
 You can reach me via:  
-- GitHub: [github.com/YourUserName](https://github.com/YourUserName)  
-- Email: your.email@example.com  *(optional)*  
-- LinkedIn / Twitter / Other (if you want)  
+- GitHub: [https://github.com/adity303]  
+- Email: [aditya.srivastava686755@gmail.com]  
+- LinkedIn - [https://www.linkedin.com/in/adi8870/]  
 
 Feel free to get in touch for feedback, collaborations, or opportunities!
 
